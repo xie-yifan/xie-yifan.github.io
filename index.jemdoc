@@ -1,0 +1,73 @@
+# jemdoc: menu{MENU}{index.html}
+= Yifan Xie's Homepage
+
+~~~
+{}{img_left}{photos/xie.jpg}{alt text}{150}{200}
+Yifan Xie \n
+Master student \n
+Department of Automation \n
+Shanghai Jiao Tong University, Shanghai, China \n
+Email: xyfan1234@sjtu.edu.cn \n
+[https://scholar.google.com/citations?user=XkGIWpsAAAAJ&hl=zh-CN/ Google Scholar]
+~~~
+
+
+{{<a name="about"></a>}}
+== About me
+I am a 2nd year Master student who majors in the Control Engineering at the [http://automation.sjtu.edu.cn/en/Default.aspx/ Department of Automation], 
+[http://en.sjtu.edu.cn/ Shanghai Jiao Tong University]. My advisor is Prof. [http://xiangyin.sjtu.edu.cn/ Xiang Yin]. 
+
+I received my B.S. degree in Automation from [https://ev.buaa.edu.cn/ Beihang University] in Jul. 2019. 
+During Jan. 2018-Jul. 2019, I worked with Prof. [https://scholar.google.com/citations?user=-LQGKncAAAAJ&hl=zh-CN&oi=ao/ Fei Tao] 
+and Prof. [https://scholar.google.com/citations?user=wO0gbzgAAAAJ&hl=zh-CN/ Ying Cheng] as an undergraduate research assistant. 
+
+My current reseach interests lie in *systems and control theory, discrete-event systems and formal methods*.
+
+{{<a name="publications"></a>}}
+== Publications
+
+=== Preprints
+- Opacity enforcing supervisory control using non-deterministic supervisors. \n
+*Yifan Xie*, Xiang Yin and Shaoyuan Li. Submitted to IEEE Transactions on Automatic Control. [files/2020_arxiv_nondeter.pdf (PDF)]
+- Optimal synthesis of opacity-enforcing supervisors for qualitative and quantitative specifications.\n
+*Yifan Xie*, Xiang Yin and Shaoyuan Li. Submitted to IEEE Transactions on Automatic Control. [files/2021_arxiv_QQ.pdf (PDF)]
+
+=== Journal Papers
+- [https://ieeexplore.ieee.org/abstract/document/9122563/ Manufacturing service scheduling with supply-demand dual dynamic uncertainties toward industrial internet platforms.] \n
+Ying Cheng, *Yifan Xie*, Dongxu Wang and Fei Tao. IEEE Transactions on Industrial Informatics, 2020. [files/2020_tii_msd.pdf (PDF)]
+- [https://ieeexplore.ieee.org/document/8876858/ Scalable hypernetwork-based manufacturing services supply demand matching toward industrial internet platforms.] \n
+Ying Cheng, *Yifan Xie*, Dongming Zhao, Ping Ji and Fei Tao. IEEE Transactions on Systems, Man, and Cybernetics: System, 2020. [files/2020_tsmcs_msm.pdf (PDF)]
+
+=== Conference Papers
+- Opacity enforcing supervisory control using non-deterministic supervisors.\n
+*Yifan Xie*, Xiang Yin and Shaoyuan Li. In 21st IFAC World Congress, 2020. [files/2020_ifac_nondeter.pdf (PDF)][files/Slides_2020_IFAC_nondeter.pdf (Slides)]
+- [https://ieeexplore.ieee.org/abstract/document/9148014/ Supervisory control of discrete-event systems for infinite-step opacity.] \n
+*Yifan Xie* and Xiang Yin. In American Control Conference, 2020. [files/2020_acc_infinite.pdf (PDF)][files/Slides_2020_ACC_infinite.pdf (Slides)]
+
+
+{{<a name="services"></a>}}
+== Services
+
+=== Reviewer
+- 21th IFAC World Congress
+
+=== Teaching
+- 2020 Fall, Teaching Assistant, CS2501H: Discrete Mathematics (Honor), undergraduate course for Zhiyuan Honor Program
+, Shanghai Jiao Tong University\n
+- 2019 Fall, Teaching Assistant, MA238: Discrete Mathematics, undergraduate course, Shanghai Jiao Tong University
+
+{{<a name="honors"></a>}}
+== Honors
+- National Scholarship for Graduate Students\n
+
+{{<a name="contact"></a>}}
+== Contact
+xyfan1234@sjtu.edu.cn\n
+800 Dongchuan RD. Minhang District, Shanghai, China
+
+
+
+
+
+
+
