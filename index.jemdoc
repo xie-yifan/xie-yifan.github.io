@@ -14,7 +14,7 @@ Email: xyfan1234@sjtu.edu.cn \n
 
 {{<a name="about"></a>}}
 == About me
-I am a 2nd year Master student who majors in the Control Engineering at the [http://automation.sjtu.edu.cn/en/Default.aspx/ Department of Automation], 
+I am a 3rd year Master student who majors in the Control Engineering at the [http://automation.sjtu.edu.cn/en/Default.aspx/ Department of Automation], 
 [http://en.sjtu.edu.cn/ Shanghai Jiao Tong University]. My advisor is Prof. [http://xiangyin.sjtu.edu.cn/ Xiang Yin]. 
 
 My current reseach interests lie in *Systems and Control Theory, Formal Methods, Discrete-Event Systems,  Robotic Path Planning*.
@@ -33,20 +33,20 @@ During Feb.2019-Jul.2019, I was an exchange student at Politecnico di Torino, It
 
 === Preprints
 - Optimal synthesis of opacity-enforcing supervisors for qualitative and quantitative specifications.\n
-*Yifan Xie*, Xiang Yin and Shaoyuan Li.  IEEE Transactions on Automatic Control. [files/2021_arxiv_QQ.pdf (PDF)]
+*Yifan Xie*, Xiang Yin and Shaoyuan Li.  Submitted to IEEE Transactions on Automatic Control. [files/2021_arxiv_QQ.pdf (PDF)]
 
 
 === Journal Papers
-- Opacity enforcing supervisory control using non-deterministic supervisors. (Full Paper)\n
-*Yifan Xie*, Xiang Yin and Shaoyuan Li. Conditionally Accepted by IEEE Transactions on Automatic Control. [files/2020_arxiv_nondeter.pdf (PDF)]
+- [https://ieeexplore.ieee.org/abstract/document/9627634/ Opacity enforcing supervisory control using non-deterministic supervisors.] (Regular Paper)\n
+*Yifan Xie*, Xiang Yin and Shaoyuan Li. Accepted by IEEE Transactions on Automatic Control. [files/2020_arxiv_nondeter.pdf (PDF)]
 - [https://ieeexplore.ieee.org/abstract/document/9122563/ Manufacturing service scheduling with supply-demand dual dynamic uncertainties toward industrial internet platforms.] \n
 Ying Cheng, *Yifan Xie*, Dongxu Wang and Fei Tao. IEEE Transactions on Industrial Informatics, 2020. [files/2020_tii_msd.pdf (PDF)]
 - [https://ieeexplore.ieee.org/document/8876858/ Scalable hypernetwork-based manufacturing services supply demand matching toward industrial internet platforms.] \n
 Ying Cheng, *Yifan Xie*, Dongming Zhao, Ping Ji and Fei Tao. IEEE Transactions on Systems, Man, and Cybernetics: System, 2020. [files/2020_tsmcs_msm.pdf (PDF)]
 
 === Conference Papers
-- Secure-by-construction controller synthesis for stochastic systems under linear temporal logic specifications.\n
-*Yifan Xie*, Xiang Yin, Shaoyuan Li and Majid Zamani. In 60th IEEE Conference on Decision and Control (CDC), 2021, to appear. [files/2021_cdc_secureltl.pdf (PDF)]
+- [https://ieeexplore.ieee.org/abstract/document/9683745/ Secure-by-construction controller synthesis for stochastic systems under linear temporal logic specifications.]\n
+*Yifan Xie*, Xiang Yin, Shaoyuan Li and Majid Zamani. In 60th IEEE Conference on Decision and Control (CDC), 2021. [files/2021_cdc_secureltl.pdf (PDF)][files/Slides_CDC_2021_Xie.pdf (Slides)]
 - [https://www.sciencedirect.com/science/article/pii/S2405896320329827/ Opacity enforcing supervisory control using non-deterministic supervisors.]\n
 *Yifan Xie*, Xiang Yin and Shaoyuan Li. In 21st IFAC World Congress, 2020. [files/2020_ifac_nondeter.pdf (PDF)][files/Slides_2020_IFAC_nondeter.pdf (Slides)]
 - [https://ieeexplore.ieee.org/abstract/document/9148014/ Supervisory control of discrete-event systems for infinite-step opacity.] \n
@@ -58,7 +58,7 @@ Ying Cheng, *Yifan Xie*, Dongming Zhao, Ping Ji and Fei Tao. IEEE Transactions o
 === Graduate Research Assistant, Advisor: Prof. Xiang Yin, Shanghai Jiao Tong University
 ~~~
 {}{img_left}{files/Opacity.png}{alt text}{414px}{100px}{IMGLINKTARGET}
-*Opacity*:  opacity is a confidential property capturing whether or not the system can always \emph{plausibly deny} the execution of a secret behavior.
+*Opacity*:  opacity is a confidential property capturing whether or not the system can always plausibly deny the execution of a secret behavior.
 ~~~
 
 ~~~
@@ -108,7 +108,7 @@ You can refer to [files/2021_arxiv_QQ.pdf (PDF)] for more details about this wor
 xyfan1234@sjtu.edu.cn\n
 800 Dongchuan RD. Minhang District, Shanghai, China
 
-{{<a href="https://clustrmaps.com/site/1bgex"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=h3YS8kswolnD7wfplXugC88wjcB4cYLPqS_WkMLvUGE&cl=ffffff" /></a>}}
+<a href="https://clustrmaps.com/site/1bgex"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=h3YS8kswolnD7wfplXugC88wjcB4cYLPqS_WkMLvUGE&cl=ffffff" /></a>
 
 
 
